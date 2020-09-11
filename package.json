@@ -1,0 +1,24 @@
+{
+  "name": "fd-classnames",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "test:watch": "mocha --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/squirec-dev/fd-classnames.git"
+  },
+  "author": "Claire Squire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/squirec-dev/fd-classnames/issues"
+  },
+  "homepage": "https://github.com/squirec-dev/fd-classnames#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.3"
+  }
+}
